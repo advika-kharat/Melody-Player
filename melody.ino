@@ -1,4 +1,4 @@
-/*Song Picker by Advika Kharat*/
+/*Melody Player by Advika Kharat*/
 
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(22, 21, 1, 3, 17, 16);
